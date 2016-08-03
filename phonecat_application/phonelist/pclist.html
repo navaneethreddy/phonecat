@@ -1,0 +1,38 @@
+
+    <h1></h1>
+<div ng-controller="pccontroller">
+    <div class="row">
+        <div class="container">
+            <br>
+            <div class="col-md-3 col-md-offset-4">
+                <div style="position:absolute;height:450px;width:300px;border:6px solid black;padding:10px;border-radius: 8px;">
+
+                    <div>
+                        <input type="text" class="form-control" ng-model="search.name" placeholder="search"/>
+
+                    </div>
+                    <br>
+                    <div>
+                    <pc-home></pc-home>
+                    <br>
+                    </div>
+
+                </div>
+                <div style="position: absolute;left:70px;height: 60px;top: 380px;">
+                    <dir-pagination-controls
+                            max-size="3"
+                            direction-links="false"
+                            boundary-links="true">
+                    </dir-pagination-controls>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div style="position: absolute;height:300px;width:300px;background-color: quamarine;">
+    </div>
+</div>
+</div>
+
+

@@ -1,0 +1,53 @@
+{
+  "datas": [
+    {
+      "id": 1,
+      "name": "iphone",
+      "imageUrl": "./images/iphone.jpg",
+      "description": "it was too expensive.but the arch and design is too good"
+    },
+    {
+      "id": 2,
+      "name": "samsung",
+      "imageUrl": "./images/samsung.jpeg",
+      "description": "it has low and expensive budget phones.But the camera quality is not much goos."
+    },
+    {
+      "id": 3,
+      "name": "sony",
+      "imageUrl": "./images/sony.jpg",
+      "description": "sony design and camera is good . but battery life is average"
+    },
+    {
+      "id": 4,
+      "name": "htc",
+      "imageUrl": "./images/htc.jpg",
+      "imageUrl2": "./images/htc2.jpeg",
+      "description": "htc is like old is gold. it is prety good."
+    },
+    {
+      "id": 5,
+      "name": "iphone",
+      "imageUrl": "./images/iphone.jpg",
+      "description": "it was too expensive.but the arch and design is too good"
+    },
+    {
+      "id": 6,
+      "name": "samsung",
+      "imageUrl": "./images/samsung.jpeg",
+      "description": "it has low and expensive budget phones.But the camera quality is not much goos."
+    },
+    {
+      "id": 7,
+      "name": "sony",
+      "imageUrl": "./images/sony.jpg",
+      "description": "sony design and camera is good . but battery life is average"
+    },
+    {
+      "id": 8,
+      "name": "htc",
+      "imageUrl": "./images/htc.jpg",
+      "description": "htc is like old is gold. it is prety good."
+    }
+  ]
+}

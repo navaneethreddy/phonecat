@@ -1,0 +1,13 @@
+{
+  "image":
+  [
+    {"imageUrl1": "./images/htc.jpg"
+    },
+    {
+      "imageUr2": "./images/htc1.jpg"
+    },
+    {
+      "imageUr3": "./images/htc2.jpeg"
+    }
+  ]
+}
